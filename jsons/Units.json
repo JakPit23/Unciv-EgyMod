@@ -1,1 +1,11 @@
-[]
+[
+	{
+		"name": "Iron Stealer",
+		"movement": 10,
+		"cost": 1,
+		"unitType": "Scout",
+		"strength": 15,
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	}
+]
